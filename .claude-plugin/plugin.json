@@ -1,0 +1,11 @@
+{
+  "name": "cache-timer",
+  "version": "0.1.0",
+  "description": "Shows the time left before the prompt cache (1-hour TTL) expires since the last model request, in the status line, with a toast at 10 and 3 minutes left",
+  "author": { "name": "JinseongHwang", "url": "https://github.com/JinseongHwang" },
+  "homepage": "https://github.com/JinseongHwang/cc-cache-timer",
+  "repository": "https://github.com/JinseongHwang/cc-cache-timer",
+  "license": "MIT",
+  "keywords": ["prompt-cache", "status-line", "timer", "mod"],
+  "types": "./types/index.d.ts"
+}
