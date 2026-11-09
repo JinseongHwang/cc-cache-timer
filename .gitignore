@@ -1,0 +1,9 @@
+# Written by the Claude Code engine each time it loads the mod
+.claude-plugin/types/
+
+# Local tooling state
+.omc/
+
+# OS and editor files
+.DS_Store
+*.log
