@@ -1,0 +1,6 @@
+{
+  "name": "cc-cache-timer",
+  "description": "A Claude Code mod that shows a live countdown to prompt cache expiry in the status line",
+  "owner": { "name": "JinseongHwang" },
+  "plugins": [{ "name": "cache-timer", "source": "./" }]
+}
